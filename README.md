@@ -1,5 +1,3 @@
-# PythonPrograms
-
 Python Programs
 ==========
 
